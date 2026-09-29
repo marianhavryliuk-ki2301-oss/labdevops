@@ -1,0 +1,1 @@
+Рядок із гілки conflict_test
