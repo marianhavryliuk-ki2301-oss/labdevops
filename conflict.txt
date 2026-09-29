@@ -1,1 +1,5 @@
+HEAD
 Рядок із гілки main
+
+Рядок із гілки conflict_test
+ conflict_test
